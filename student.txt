@@ -1,0 +1,3 @@
+student name is gfgfh
+student id is 3466
+student grade is a
